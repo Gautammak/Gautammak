@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 😎 I'm Currently persuing my Bechelor of Engineering in IT.
+- 😎 I'm Currently Pass Out my Bechelor of Engineering in IT.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 🚀 To infinity and beyond !
