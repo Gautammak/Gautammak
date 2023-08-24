@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gautam Makavana</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-<a href="#" ><img width="60%" height="50%"  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" height="50px"/></a>
+<a href="#" ><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a>
 
 <h1>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;        Hi,I'm Gautam Makvana</h1>
 
