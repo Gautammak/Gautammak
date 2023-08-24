@@ -4,15 +4,22 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **MERN Stack Development**
+ - 😎 I'm Currently Pass Out my Bechelor of Engineering in IT.
+ 
+ - 🔭 I’m currently working on **MERN Stack Development**
+ -  🚀 To infinity and beyond !
 
-- 🌱 I’m currently learning **data structure and algorithms**
+ - 🌱 I’m currently learning **data structure and algorithms**
 
-- 💬 Ask me about **MERN**
+ - 🌱 I’m currently learning **Backend Technologies**
 
-- 📫 How to reach me **gm962460@gmail.com**
+ - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- ⚡ Fun fact **I am Funny**
+ - 💬 Ask me about **MERN**
+
+ - 📫 How to reach me **gm962460@gmail.com**
+
+ - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
