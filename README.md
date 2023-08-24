@@ -7,9 +7,9 @@
  - 😎 I'm Currently Pass Out my Bechelor of Engineering in IT.
  
  - 🔭 I’m currently working on **MERN Stack Development**
- -  🚀 To infinity and beyond !
-
+ 
  - 🌱 I’m currently learning **data structure and algorithms**
+ -  🚀 To infinity and beyond !
 
  - 🌱 I’m currently learning **Backend Technologies**
 
