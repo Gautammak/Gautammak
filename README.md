@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://gautam-portfolio-ruddy.vercel.app/](https://gautam-portfolio-ruddy.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-33sa.vercel.app/](https://my-portfolio-33sa.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
