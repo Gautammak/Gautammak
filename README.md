@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gautammakavana.vercel.app/](https://gautammakavana.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **gm962460@gmail.com**
 
