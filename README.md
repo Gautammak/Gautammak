@@ -7,7 +7,7 @@
 
 - 😎 I'm Currently Pass Out my Bachelor of Engineering in IT.
 
-- 🔭 I’m currently working on **MERN Stack Development**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Data Structure And Alorithms**
   
