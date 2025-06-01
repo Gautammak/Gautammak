@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://gautammakavana.vercel.app/](https://gautammakavana.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://gautam-makavana-portfolio.vercel.app/](https://gautam-makavana-portfolio.vercel.app/)
 
 - 💬 Ask me about **Backend Development**
 
